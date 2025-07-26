@@ -24,10 +24,11 @@ A Mathematics graduate and aspiring Quantitative Finance expert, currently pursu
 
 ## 🎓 Certifications & Background
 
-- 📘 M.S. in Quantitative Finance & Economics – Texas State University  
+- 🎓 B.S. in Mathematics with a Minor in Economics – Texas Tech University  
+- 📘 M.S. in Quantitative Finance & Economics (in progress) – Texas State University  
 - 🧠 MIT Data Science Certificate (3 Projects)  
 - 🗂 IBM Program Manager Certified  
-- 📈 Business Analyst (in progress)  
+- 📈 IBM Business Analyst (in progress)  
 
 ---
 
@@ -39,3 +40,4 @@ A Mathematics graduate and aspiring Quantitative Finance expert, currently pursu
 ---
 
 *“The Quant & The Code – Founders of the Future.”*
+
