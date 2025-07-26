@@ -18,7 +18,7 @@ A Mathematics graduate and aspiring Quantitative Finance expert, currently pursu
 🔹 [AAPL Stock Price Prediction](https://github.com/massimoboyd/aapl-stock-price-prediction)  
 🔹 [Agile E-Commerce Simulation](https://github.com/massimoboyd/agile-ecommerce-backend)  
 🔹 [Food Hub Classification](https://github.com/massimoboyd/foodhub-classification)  
-🔹 [Customer Conversion Prediction (MIT)](https://github.com/massimoboyd/customer-prediction)  
+🔹 [[Customer Conversion Prediction (MIT)](https://github.com/massimoboyd/customer-prediction) ](https://github.com/MassimoBoyd/Customer-Conversion-Prediction-MIT-Code-Project) 
 🔹 [Loan Default Risk Capstone (MIT)](https://github.com/massimoboyd/loan-default-risk-capstone)
 
 ---
